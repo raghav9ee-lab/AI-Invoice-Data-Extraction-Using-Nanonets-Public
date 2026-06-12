@@ -94,9 +94,7 @@ Successfully extracted:
 - Dashboard Reporting
 ## Author
 RAGHAV SHARMA
+
 ## Nanonets Output
-
-https://raw.githubusercontent.com/raghav9ee-lab/loan-default-prediction-orange/main/NANONENTS.jpeg
-
 
 https://raw.githubusercontent.com/raghav9ee-lab/loan-default-prediction-orange/main/NANONhttps://raw.githubusercontent.com/raghav9ee-lab/loan-default-prediction-orange/main/NANONENTS.jpegENTS.jpeg
