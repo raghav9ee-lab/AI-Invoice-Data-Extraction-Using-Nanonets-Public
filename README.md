@@ -97,4 +97,4 @@ Successfully extracted:
 RAGHAV SHARMA
 ## Nanonets Output
 
-![Nanonets](https://raw.githubusercontent.com/raghav9ee-lab/loan-default-prediction-orange/main/NANONENTS.jpeg)
+https://raw.githubusercontent.com/raghav9ee-lab/loan-default-prediction-orange/main/NANONENTS.jpeg
